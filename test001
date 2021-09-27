@@ -1,0 +1,1 @@
+curl --location --request GET 'api.openweathermap.org/data/2.5/forecast?q=Tokyo&appid=2fbef03ae457ce0b941d04ca530dd111'
